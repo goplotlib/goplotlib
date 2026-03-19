@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="380">
+<defs>
+<clipPath id="axes-clip-1"><rect x="70" y="45" width="600" height="275"/></clipPath>
+</defs>
+<rect x="0" y="0" width="700" height="380" stroke="none" fill="#ffffff"/>
+<rect x="70" y="45" width="600" height="275" stroke="none" fill="#f7f7f7"/>
+<g clip-path="url(#axes-clip-1)">
+<line x1="70" y1="282.59" x2="670" y2="282.59" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="232.7" x2="670" y2="232.7" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="182.81" x2="670" y2="182.81" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="132.93" x2="670" y2="132.93" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="83.04" x2="670" y2="83.04" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<line x1="174.35" y1="45" x2="174.35" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="304.78" y1="45" x2="304.78" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="435.22" y1="45" x2="435.22" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="565.65" y1="45" x2="565.65" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<path d="M70 320 L122.17 320 L122.17 307.53 L174.35 307.53 L174.35 282.59 L200.43 282.59 L200.43 245.17 L226.52 245.17 L226.52 207.76 L278.7 207.76 L278.7 170.34 L304.78 170.34 L304.78 132.93 L356.96 132.93 L356.96 107.98 L409.13 107.98 L409.13 95.51 L435.22 95.51 L435.22 83.04 L487.39 83.04 L487.39 70.57 L513.48 70.57 L513.48 58.1 L539.57 58.1 L539.57 58.1 L591.74 58.1 L591.74 58.1 L617.83 58.1 L617.83 70.57 L643.91 70.57 L643.91 83.04 L670 83.04 L670 95.51 L670 320 L70 320 Z" stroke="none" fill="rgba(76,114,176,0.2)"/>
+<path d="M70 320 L122.17 320 L122.17 307.53 L174.35 307.53 L174.35 282.59 L200.43 282.59 L200.43 245.17 L226.52 245.17 L226.52 207.76 L278.7 207.76 L278.7 170.34 L304.78 170.34 L304.78 132.93 L356.96 132.93 L356.96 107.98 L409.13 107.98 L409.13 95.51 L435.22 95.51 L435.22 83.04 L487.39 83.04 L487.39 70.57 L513.48 70.57 L513.48 58.1 L539.57 58.1 L539.57 58.1 L591.74 58.1 L591.74 58.1 L617.83 58.1 L617.83 70.57 L643.91 70.57 L643.91 83.04 L670 83.04 L670 95.51" stroke="#4c72b0" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="miter"/>
+</g>
+<line x1="70" y1="320" x2="670" y2="320" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="45" x2="70" y2="320" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="174.35" y1="320" x2="174.35" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="174.35" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">5</text>
+<line x1="304.78" y1="320" x2="304.78" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="304.78" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">10</text>
+<line x1="435.22" y1="320" x2="435.22" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="435.22" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">15</text>
+<line x1="565.65" y1="320" x2="565.65" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="565.65" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">20</text>
+<line x1="65" y1="282.59" x2="70" y2="282.59" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="282.59" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">1</text>
+<line x1="65" y1="232.7" x2="70" y2="232.7" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="232.7" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">2</text>
+<line x1="65" y1="182.81" x2="70" y2="182.81" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="182.81" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">3</text>
+<line x1="65" y1="132.93" x2="70" y2="132.93" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="132.93" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">4</text>
+<line x1="65" y1="83.04" x2="70" y2="83.04" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="83.04" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">5</text>
+<text x="370" y="350" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Month</text>
+<text x="22" y="182.5" transform="rotate(-90,22,182.5)" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#333333">Rate (%)</text>
+<text x="370" y="30" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="auto" fill="#1a1a1a">Federal Funds Rate — 2022 to 2024</text>
+<rect x="517.6" y="55" width="142.4" height="42" rx="4" ry="4" stroke="#e5e5e5" stroke-width="0.8" fill="rgba(255,255,255,0.898)"/>
+<line x1="527.6" y1="76" x2="547.6" y2="76" stroke="#4c72b0" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<circle cx="537.6" cy="76" r="3" stroke="none" fill="#4c72b0"/>
+<text x="551.6" y="76" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">Fed Funds Rate</text>
+</svg>

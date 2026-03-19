@@ -1,0 +1,6 @@
+**/testdata/golden/*.actual
+docs/public/
+docs/.hugo_build.lock
+cmd/gendocs/_run/
+/gendocs
+/testview

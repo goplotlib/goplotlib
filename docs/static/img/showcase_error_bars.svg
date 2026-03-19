@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="380">
+<defs>
+<clipPath id="axes-clip-1"><rect x="70" y="45" width="600" height="275"/></clipPath>
+</defs>
+<rect x="0" y="0" width="700" height="380" stroke="none" fill="#ffffff"/>
+<rect x="70" y="45" width="600" height="275" stroke="none" fill="#f7f7f7"/>
+<g clip-path="url(#axes-clip-1)">
+<line x1="70" y1="302.54" x2="670" y2="302.54" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="258.89" x2="670" y2="258.89" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="215.24" x2="670" y2="215.24" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="171.59" x2="670" y2="171.59" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="127.94" x2="670" y2="127.94" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="84.29" x2="670" y2="84.29" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<line x1="70" y1="45" x2="70" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="145" y1="45" x2="145" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="220" y1="45" x2="220" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="295" y1="45" x2="295" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="370" y1="45" x2="370" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="445" y1="45" x2="445" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="520" y1="45" x2="520" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="595" y1="45" x2="595" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="670" y1="45" x2="670" y2="320" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<circle cx="70" cy="285.08" r="7" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="220" cy="206.51" r="7" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="370" cy="232.7" r="7" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="520" cy="110.48" r="7" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="670" cy="154.13" r="7" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<line x1="70" y1="320" x2="70" y2="250.16" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="67" y1="320" x2="73" y2="320" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="67" y1="250.16" x2="73" y2="250.16" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="220" y1="250.16" x2="220" y2="162.86" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="217" y1="250.16" x2="223" y2="250.16" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="217" y1="162.86" x2="223" y2="162.86" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="370" y1="267.62" x2="370" y2="197.78" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="367" y1="267.62" x2="373" y2="267.62" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="367" y1="197.78" x2="373" y2="197.78" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="520" y1="162.86" x2="520" y2="58.1" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="517" y1="162.86" x2="523" y2="162.86" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="517" y1="58.1" x2="523" y2="58.1" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="670" y1="197.78" x2="670" y2="110.48" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="667" y1="197.78" x2="673" y2="197.78" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+<line x1="667" y1="110.48" x2="673" y2="110.48" stroke="#4c72b0" stroke-width="1.5" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<line x1="70" y1="285.08" x2="670" y2="285.08" stroke="#333333" stroke-width="1.5" fill="none" stroke-dasharray="6,3"/>
+</g>
+<text x="666" y="281.08" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="auto" fill="#333333">baseline</text>
+<line x1="70" y1="320" x2="670" y2="320" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="45" x2="70" y2="320" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="320" x2="70" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="70" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">1.0</text>
+<line x1="145" y1="320" x2="145" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="145" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">1.5</text>
+<line x1="220" y1="320" x2="220" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="220" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">2.0</text>
+<line x1="295" y1="320" x2="295" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="295" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">2.5</text>
+<line x1="370" y1="320" x2="370" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="370" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">3.0</text>
+<line x1="445" y1="320" x2="445" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="445" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">3.5</text>
+<line x1="520" y1="320" x2="520" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="520" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">4.0</text>
+<line x1="595" y1="320" x2="595" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="595" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">4.5</text>
+<line x1="670" y1="320" x2="670" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="670" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">5.0</text>
+<line x1="65" y1="302.54" x2="70" y2="302.54" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="302.54" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">3.0</text>
+<line x1="65" y1="258.89" x2="70" y2="258.89" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="258.89" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">3.5</text>
+<line x1="65" y1="215.24" x2="70" y2="215.24" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="215.24" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">4.0</text>
+<line x1="65" y1="171.59" x2="70" y2="171.59" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="171.59" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">4.5</text>
+<line x1="65" y1="127.94" x2="70" y2="127.94" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="127.94" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">5.0</text>
+<line x1="65" y1="84.29" x2="70" y2="84.29" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="84.29" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">5.5</text>
+<text x="370" y="350" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Variant</text>
+<text x="22" y="182.5" transform="rotate(-90,22,182.5)" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#333333">Conversion (%)</text>
+<text x="370" y="30" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="auto" fill="#1a1a1a">A/B Test — Conversion Rate with 95% CI</text>
+<rect x="563.8" y="55" width="96.2" height="64" rx="4" ry="4" stroke="#e5e5e5" stroke-width="0.8" fill="rgba(255,255,255,0.898)"/>
+<line x1="573.8" y1="76" x2="593.8" y2="76" stroke="#4c72b0" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<circle cx="583.8" cy="76" r="3" stroke="none" fill="#4c72b0"/>
+<text x="597.8" y="76" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">variant</text>
+<line x1="573.8" y1="98" x2="593.8" y2="98" stroke="#4c72b0" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<circle cx="583.8" cy="98" r="3" stroke="none" fill="#4c72b0"/>
+<text x="597.8" y="98" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">Series</text>
+</svg>

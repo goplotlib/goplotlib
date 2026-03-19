@@ -1,0 +1,44 @@
+baseURL: https://goplotlib.github.io/goplotlib/
+languageCode: en-us
+title: goplotlib
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.116.0"
+  imports:
+    - path: github.com/imfing/hextra
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+params:
+  description: A zero-dependency Go library for beautiful SVG charts
+  navbar:
+    displayTitle: true
+    displayLogo: false
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
+
+menu:
+  main:
+    - name: Docs
+      pageRef: /docs/getting-started
+      weight: 1
+    - name: Charts
+      pageRef: /docs/charts
+      weight: 2
+    - name: GitHub
+      url: https://github.com/goplotlib/goplotlib
+      weight: 3
+      params:
+        type: remote

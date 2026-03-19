@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="500">
+<rect x="0" y="0" width="600" height="500" stroke="none" fill="#ffffff"/>
+<path d="M300 58 C361.4 58 419.6 85.4 458.7 132.7 C497.9 180 513.9 242.3 502.4 302.6 L401.2 283.3 C406.9 253.2 398.9 222 379.4 198.4 C359.8 174.7 330.7 161 300 161 Z" stroke="#ffffff" stroke-width="1.5" fill="#4c72b0"/>
+<path d="M506.3 316.0 C491.7 392.1 435.8 453.7 361.4 475.3 C287.0 496.9 206.8 474.9 153.7 418.5 L228.8 348.0 C255.3 376.2 295.5 387.2 332.6 376.4 C369.8 365.6 397.8 334.8 405.1 296.7 Z" stroke="#ffffff" stroke-width="1.5" fill="#dd8452"/>
+<path d="M149.8 405.0 C88.7 340.0 76.5 243.0 119.5 164.8 L209.7 214.4 C188.2 253.5 194.4 302.0 224.9 334.5 Z" stroke="#ffffff" stroke-width="1.5" fill="#55a868"/>
+<path d="M119.5 164.8 C155.7 98.9 224.9 58 300 58 L300 161 C262.4 161 227.8 181.5 209.7 214.4 Z" stroke="#ffffff" stroke-width="1.5" fill="#c44e52"/>
+<line x1="463.4" y1="128.9" x2="472.6" y2="121.2" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="476.6" y="121.2" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">Q1 28%</text>
+<line x1="359.2" y1="467.6" x2="362.5" y2="479.1" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="366.5" y="479.1" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">Q2 35%</text>
+<line x1="89.7" y1="290.6" x2="77.8" y2="292.1" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="73.8" y="292.1" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Q3 20%</text>
+<line x1="192.1" y1="81.5" x2="186.0" y2="71.2" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="182.0" y="71.2" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Q4 17%</text>
+<text x="300" y="14" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">Quarterly Revenue</text>
+</svg>

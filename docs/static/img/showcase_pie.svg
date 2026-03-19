@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="380">
+<rect x="0" y="0" width="700" height="380" stroke="none" fill="#ffffff"/>
+<path d="M350 58 C406.56 58 458.02 90.66 482.1 141.84 C506.19 193.01 498.55 253.49 462.49 297.06 L411.87 255.19 C431.7 231.22 435.9 197.96 422.66 169.81 C409.41 141.66 381.11 123.7 350 123.7 Z" stroke="#ffffff" stroke-width="1.5" fill="#4c72b0"/>
+<path d="M462.49 297.06 C415.61 353.74 333.88 366.69 271.77 327.27 L306.97 271.8 C341.13 293.48 386.08 286.36 411.87 255.19 Z" stroke="#ffffff" stroke-width="1.5" fill="#dd8452"/>
+<path d="M271.77 327.27 C232.31 302.23 207.22 259.81 204.29 213.17 L269.86 209.04 C271.47 234.7 285.27 258.03 306.97 271.8 Z" stroke="#ffffff" stroke-width="1.5" fill="#55a868"/>
+<path d="M204.29 213.17 C202.35 182.4 210.21 151.8 226.73 125.77 L282.2 160.97 C273.11 175.29 268.79 192.12 269.86 209.04 Z" stroke="#ffffff" stroke-width="1.5" fill="#c44e52"/>
+<path d="M226.73 125.77 C238.24 107.62 253.62 92.24 271.77 80.73 L306.97 136.2 C296.99 142.53 288.53 150.99 282.2 160.97 Z" stroke="#ffffff" stroke-width="1.5" fill="#8172b3"/>
+<path d="M271.77 80.73 C284.7 72.52 298.85 66.4 313.69 62.59 L330.03 126.22 C321.87 128.32 314.09 131.69 306.97 136.2 Z" stroke="#ffffff" stroke-width="1.5" fill="#937860"/>
+<path d="M313.69 62.59 C325.55 59.54 337.75 58 350 58 L350 123.7 C343.26 123.7 336.55 124.55 330.03 126.22 Z" stroke="#ffffff" stroke-width="1.5" fill="#da8bc3"/>
+<line x1="487.53" y1="139.28" x2="498.39" y2="134.17" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="502.39" y="134.17" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">Coal 36%</text>
+<line x1="373.78" y1="354.13" x2="375.66" y2="365.98" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="379.66" y="365.98" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">Natural Gas 23%</text>
+<line x1="219.17" y1="281.37" x2="208.84" y2="287.48" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="204.84" y="287.48" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Hydro 15%</text>
+<line x1="202.78" y1="166.2" x2="191.15" y2="163.21" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="187.15" y="163.21" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Nuclear 10%</text>
+<line x1="242.52" y1="96.52" x2="234.03" y2="88.03" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="230.03" y="88.03" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Wind 7%</text>
+<line x1="289.63" y1="64.5" x2="284.87" y2="53.49" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="280.87" y="53.49" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Solar 5%</text>
+<text x="350" y="14" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">Global Electricity Generation Mix (2023)</text>
+</svg>

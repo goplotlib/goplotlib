@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450">
+<defs>
+<clipPath id="axes-clip-1"><rect x="70" y="45" width="700" height="345"/></clipPath>
+</defs>
+<rect x="0" y="0" width="800" height="450" stroke="none" fill="#ffffff"/>
+<rect x="70" y="45" width="700" height="345" stroke="none" fill="#f7f7f7"/>
+<g clip-path="url(#axes-clip-1)">
+<line x1="70" y1="45" x2="70" y2="390" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="149.4" y1="45" x2="149.4" y2="390" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="228.7" y1="45" x2="228.7" y2="390" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="308.1" y1="45" x2="308.1" y2="390" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="387.5" y1="45" x2="387.5" y2="390" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="466.8" y1="45" x2="466.8" y2="390" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="546.2" y1="45" x2="546.2" y2="390" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="625.6" y1="45" x2="625.6" y2="390" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="704.9" y1="45" x2="704.9" y2="390" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<rect x="70" y="53.6" width="666.7" height="51.8" rx="4" ry="4" stroke="none" fill="#4c72b0"/>
+<rect x="70" y="122.6" width="563.5" height="51.8" rx="4" ry="4" stroke="none" fill="#4c72b0"/>
+<rect x="70" y="191.6" width="500" height="51.8" rx="4" ry="4" stroke="none" fill="#4c72b0"/>
+<rect x="70" y="260.6" width="333.3" height="51.8" rx="4" ry="4" stroke="none" fill="#4c72b0"/>
+<rect x="70" y="329.6" width="230.2" height="51.8" rx="4" ry="4" stroke="none" fill="#4c72b0"/>
+</g>
+<line x1="70" y1="390" x2="770" y2="390" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="45" x2="70" y2="390" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="390" x2="70" y2="395" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="70" y="398" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">0</text>
+<line x1="149.4" y1="390" x2="149.4" y2="395" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="149.4" y="398" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">10</text>
+<line x1="228.7" y1="390" x2="228.7" y2="395" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="228.7" y="398" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">20</text>
+<line x1="308.1" y1="390" x2="308.1" y2="395" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="308.1" y="398" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">30</text>
+<line x1="387.5" y1="390" x2="387.5" y2="395" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="387.5" y="398" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">40</text>
+<line x1="466.8" y1="390" x2="466.8" y2="395" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="466.8" y="398" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">50</text>
+<line x1="546.2" y1="390" x2="546.2" y2="395" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="546.2" y="398" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">60</text>
+<line x1="625.6" y1="390" x2="625.6" y2="395" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="625.6" y="398" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">70</text>
+<line x1="704.9" y1="390" x2="704.9" y2="395" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="704.9" y="398" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">80</text>
+<line x1="65" y1="79.5" x2="70" y2="79.5" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="79.5" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">North America</text>
+<line x1="65" y1="148.5" x2="70" y2="148.5" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="148.5" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Europe</text>
+<line x1="65" y1="217.5" x2="70" y2="217.5" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="217.5" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Asia Pacific</text>
+<line x1="65" y1="286.5" x2="70" y2="286.5" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="286.5" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Latin America</text>
+<line x1="65" y1="355.5" x2="70" y2="355.5" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="355.5" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Middle East</text>
+<text x="420" y="420" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Revenue ($M)</text>
+<rect x="663.8" y="55" width="96.2" height="42" rx="4" ry="4" stroke="#e5e5e5" stroke-width="0.8" fill="rgba(255,255,255,0.9)"/>
+<rect x="673.8" y="71" width="20" height="10" rx="2" ry="2" stroke="none" fill="#4c72b0"/>
+<text x="697.8" y="76" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">revenue</text>
+</svg>

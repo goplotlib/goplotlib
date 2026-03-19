@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420">
+<defs>
+<clipPath id="axes-clip-1"><rect x="70" y="45" width="760" height="315"/></clipPath>
+</defs>
+<rect x="0" y="0" width="860" height="420" stroke="none" fill="#ffffff"/>
+<rect x="70" y="45" width="760" height="315" stroke="none" fill="#f7f7f7"/>
+<g clip-path="url(#axes-clip-1)">
+<line x1="70" y1="348.89" x2="830" y2="348.89" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="287.16" x2="830" y2="287.16" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="225.43" x2="830" y2="225.43" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="163.7" x2="830" y2="163.7" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="101.98" x2="830" y2="101.98" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<line x1="70" y1="45" x2="70" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="178.57" y1="45" x2="178.57" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="287.14" y1="45" x2="287.14" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="395.71" y1="45" x2="395.71" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="504.29" y1="45" x2="504.29" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="612.86" y1="45" x2="612.86" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="721.43" y1="45" x2="721.43" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="830" y1="45" x2="830" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<path d="M70 360 L178.57 345.19 L287.14 314.32 L395.71 284.69 L504.29 242.72 L612.86 208.15 L721.43 189.63 L830 199.51" stroke="#4c72b0" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="70" cy="360" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="178.57" cy="345.19" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="287.14" cy="314.32" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="395.71" cy="284.69" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="504.29" cy="242.72" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="612.86" cy="208.15" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="721.43" cy="189.63" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="830" cy="199.51" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<path d="M70 309.38 L178.57 290.86 L287.14 248.89 L395.71 206.91 L504.29 160 L612.86 100.74 L721.43 60 L830 69.88" stroke="#dd8452" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70 303.38 L75 309.38 L70 315.38 L65 309.38 Z" stroke="#ffffff" stroke-width="1" fill="#dd8452"/>
+<path d="M178.57 284.86 L183.57 290.86 L178.57 296.86 L173.57 290.86 Z" stroke="#ffffff" stroke-width="1" fill="#dd8452"/>
+<path d="M287.14 242.89 L292.14 248.89 L287.14 254.89 L282.14 248.89 Z" stroke="#ffffff" stroke-width="1" fill="#dd8452"/>
+<path d="M395.71 200.91 L400.71 206.91 L395.71 212.91 L390.71 206.91 Z" stroke="#ffffff" stroke-width="1" fill="#dd8452"/>
+<path d="M504.29 154 L509.29 160 L504.29 166 L499.29 160 Z" stroke="#ffffff" stroke-width="1" fill="#dd8452"/>
+<path d="M612.86 94.74 L617.86 100.74 L612.86 106.74 L607.86 100.74 Z" stroke="#ffffff" stroke-width="1" fill="#dd8452"/>
+<path d="M721.43 54 L726.43 60 L721.43 66 L716.43 60 Z" stroke="#ffffff" stroke-width="1" fill="#dd8452"/>
+<path d="M830 63.88 L835 69.88 L830 75.88 L825 69.88 Z" stroke="#ffffff" stroke-width="1" fill="#dd8452"/>
+</g>
+<line x1="70" y1="360" x2="830" y2="360" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="45" x2="70" y2="360" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="360" x2="70" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="70" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">1</text>
+<line x1="178.57" y1="360" x2="178.57" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="178.57" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">2</text>
+<line x1="287.14" y1="360" x2="287.14" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="287.14" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">3</text>
+<line x1="395.71" y1="360" x2="395.71" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="395.71" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">4</text>
+<line x1="504.29" y1="360" x2="504.29" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="504.29" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">5</text>
+<line x1="612.86" y1="360" x2="612.86" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="612.86" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">6</text>
+<line x1="721.43" y1="360" x2="721.43" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="721.43" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">7</text>
+<line x1="830" y1="360" x2="830" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="830" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">8</text>
+<line x1="65" y1="348.89" x2="70" y2="348.89" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="348.89" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">5</text>
+<line x1="65" y1="287.16" x2="70" y2="287.16" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="287.16" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">10</text>
+<line x1="65" y1="225.43" x2="70" y2="225.43" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="225.43" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">15</text>
+<line x1="65" y1="163.7" x2="70" y2="163.7" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="163.7" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">20</text>
+<line x1="65" y1="101.98" x2="70" y2="101.98" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="101.98" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">25</text>
+<text x="450" y="390" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Week</text>
+<text x="22" y="202.5" transform="rotate(-90,22,202.5)" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#333333">Temperature (°C)</text>
+<text x="450" y="30" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="auto" fill="#1a1a1a">Weekly Average Temperature</text>
+<rect x="730.4" y="55" width="89.6" height="64" rx="4" ry="4" stroke="#e5e5e5" stroke-width="0.8" fill="rgba(255,255,255,0.898)"/>
+<line x1="740.4" y1="76" x2="760.4" y2="76" stroke="#4c72b0" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<circle cx="750.4" cy="76" r="3" stroke="none" fill="#4c72b0"/>
+<text x="764.4" y="76" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">London</text>
+<line x1="740.4" y1="98" x2="760.4" y2="98" stroke="#dd8452" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<circle cx="750.4" cy="98" r="3" stroke="none" fill="#dd8452"/>
+<text x="764.4" y="98" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">Madrid</text>
+</svg>

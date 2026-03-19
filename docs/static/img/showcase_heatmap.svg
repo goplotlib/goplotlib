@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="380">
+<defs>
+<clipPath id="axes-clip-1"><rect x="70" y="45" width="600" height="275"/></clipPath>
+</defs>
+<rect x="0" y="0" width="700" height="380" stroke="none" fill="#ffffff"/>
+<rect x="70" y="45" width="600" height="275" stroke="none" fill="#f7f7f7"/>
+<g clip-path="url(#axes-clip-1)">
+<rect x="70" y="45" width="75" height="39.29" stroke="none" fill="#430456"/>
+<rect x="145" y="45" width="75" height="39.29" stroke="none" fill="#86d052"/>
+<rect x="220" y="45" width="75" height="39.29" stroke="none" fill="#3c4884"/>
+<rect x="295" y="45" width="75" height="39.29" stroke="none" fill="#31688b"/>
+<rect x="370" y="45" width="75" height="39.29" stroke="none" fill="#365d8b"/>
+<rect x="445" y="45" width="75" height="39.29" stroke="none" fill="#27818b"/>
+<rect x="520" y="45" width="75" height="39.29" stroke="none" fill="#b7d93f"/>
+<rect x="595" y="45" width="75" height="39.29" stroke="none" fill="#32668b"/>
+<rect x="70" y="84.29" width="75" height="39.29" stroke="none" fill="#430858"/>
+<rect x="145" y="84.29" width="75" height="39.29" stroke="none" fill="#9bd44a"/>
+<rect x="220" y="84.29" width="75" height="39.29" stroke="none" fill="#3b4b86"/>
+<rect x="295" y="84.29" width="75" height="39.29" stroke="none" fill="#306b8b"/>
+<rect x="370" y="84.29" width="75" height="39.29" stroke="none" fill="#35608b"/>
+<rect x="445" y="84.29" width="75" height="39.29" stroke="none" fill="#26848b"/>
+<rect x="520" y="84.29" width="75" height="39.29" stroke="none" fill="#ccdd37"/>
+<rect x="595" y="84.29" width="75" height="39.29" stroke="none" fill="#33638b"/>
+<rect x="70" y="123.57" width="75" height="39.29" stroke="none" fill="#440154"/>
+<rect x="145" y="123.57" width="75" height="39.29" stroke="none" fill="#8dd14f"/>
+<rect x="220" y="123.57" width="75" height="39.29" stroke="none" fill="#3c4481"/>
+<rect x="295" y="123.57" width="75" height="39.29" stroke="none" fill="#2f6e8b"/>
+<rect x="370" y="123.57" width="75" height="39.29" stroke="none" fill="#33638b"/>
+<rect x="445" y="123.57" width="75" height="39.29" stroke="none" fill="#25878b"/>
+<rect x="520" y="123.57" width="75" height="39.29" stroke="none" fill="#bedb3d"/>
+<rect x="595" y="123.57" width="75" height="39.29" stroke="none" fill="#35608b"/>
+<rect x="70" y="162.86" width="75" height="39.29" stroke="none" fill="#430456"/>
+<rect x="145" y="162.86" width="75" height="39.29" stroke="none" fill="#94d34d"/>
+<rect x="220" y="162.86" width="75" height="39.29" stroke="none" fill="#3c4884"/>
+<rect x="295" y="162.86" width="75" height="39.29" stroke="none" fill="#2e718b"/>
+<rect x="370" y="162.86" width="75" height="39.29" stroke="none" fill="#32668b"/>
+<rect x="445" y="162.86" width="75" height="39.29" stroke="none" fill="#238a8b"/>
+<rect x="520" y="162.86" width="75" height="39.29" stroke="none" fill="#c5dc3a"/>
+<rect x="595" y="162.86" width="75" height="39.29" stroke="none" fill="#31688b"/>
+<rect x="70" y="202.14" width="75" height="39.29" stroke="none" fill="#420b5b"/>
+<rect x="145" y="202.14" width="75" height="39.29" stroke="none" fill="#78cd57"/>
+<rect x="220" y="202.14" width="75" height="39.29" stroke="none" fill="#3b4f89"/>
+<rect x="295" y="202.14" width="75" height="39.29" stroke="none" fill="#2d738b"/>
+<rect x="370" y="202.14" width="75" height="39.29" stroke="none" fill="#31688b"/>
+<rect x="445" y="202.14" width="75" height="39.29" stroke="none" fill="#259489"/>
+<rect x="520" y="202.14" width="75" height="39.29" stroke="none" fill="#fde725"/>
+<rect x="595" y="202.14" width="75" height="39.29" stroke="none" fill="#27818b"/>
+<rect x="70" y="241.43" width="75" height="39.29" stroke="none" fill="#40246c"/>
+<rect x="145" y="241.43" width="75" height="39.29" stroke="none" fill="#39558b"/>
+<rect x="220" y="241.43" width="75" height="39.29" stroke="none" fill="#3fad76"/>
+<rect x="295" y="241.43" width="75" height="39.29" stroke="none" fill="#71cc5a"/>
+<rect x="370" y="241.43" width="75" height="39.29" stroke="none" fill="#5dc862"/>
+<rect x="445" y="241.43" width="75" height="39.29" stroke="none" fill="#47b471"/>
+<rect x="520" y="241.43" width="75" height="39.29" stroke="none" fill="#37a57c"/>
+<rect x="595" y="241.43" width="75" height="39.29" stroke="none" fill="#365d8b"/>
+<rect x="70" y="280.71" width="75" height="39.29" stroke="none" fill="#411964"/>
+<rect x="145" y="280.71" width="75" height="39.29" stroke="none" fill="#3c417f"/>
+<rect x="220" y="280.71" width="75" height="39.29" stroke="none" fill="#2f9e81"/>
+<rect x="295" y="280.71" width="75" height="39.29" stroke="none" fill="#5ac564"/>
+<rect x="370" y="280.71" width="75" height="39.29" stroke="none" fill="#52be69"/>
+<rect x="445" y="280.71" width="75" height="39.29" stroke="none" fill="#3fad76"/>
+<rect x="520" y="280.71" width="75" height="39.29" stroke="none" fill="#279787"/>
+<rect x="595" y="280.71" width="75" height="39.29" stroke="none" fill="#3b4b86"/>
+</g>
+<line x1="70" y1="320" x2="670" y2="320" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="45" x2="70" y2="320" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="107.5" y1="320" x2="107.5" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="107.5" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">6am</text>
+<line x1="182.5" y1="320" x2="182.5" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="182.5" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">8am</text>
+<line x1="257.5" y1="320" x2="257.5" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="257.5" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">10am</text>
+<line x1="332.5" y1="320" x2="332.5" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="332.5" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">12pm</text>
+<line x1="407.5" y1="320" x2="407.5" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="407.5" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">2pm</text>
+<line x1="482.5" y1="320" x2="482.5" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="482.5" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">4pm</text>
+<line x1="557.5" y1="320" x2="557.5" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="557.5" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">6pm</text>
+<line x1="632.5" y1="320" x2="632.5" y2="325" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="632.5" y="328" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">8pm</text>
+<line x1="65" y1="64.64" x2="70" y2="64.64" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="64.64" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Mon</text>
+<line x1="65" y1="103.93" x2="70" y2="103.93" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="103.93" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Tue</text>
+<line x1="65" y1="143.21" x2="70" y2="143.21" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="143.21" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Wed</text>
+<line x1="65" y1="182.5" x2="70" y2="182.5" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="182.5" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Thu</text>
+<line x1="65" y1="221.79" x2="70" y2="221.79" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="221.79" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Fri</text>
+<line x1="65" y1="261.07" x2="70" y2="261.07" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="261.07" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Sat</text>
+<line x1="65" y1="300.36" x2="70" y2="300.36" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="300.36" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Sun</text>
+<text x="370" y="30" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="auto" fill="#1a1a1a">Bike Share Rides — Day × Hour (hundreds)</text>
+</svg>

@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420">
+<defs>
+<clipPath id="axes-clip-1"><rect x="70" y="45" width="760" height="315"/></clipPath>
+</defs>
+<rect x="0" y="0" width="860" height="420" stroke="none" fill="#ffffff"/>
+<rect x="70" y="45" width="760" height="315" stroke="none" fill="#f7f7f7"/>
+<g clip-path="url(#axes-clip-1)">
+<line x1="70" y1="345.73" x2="830" y2="345.73" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="309.92" x2="830" y2="309.92" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="274.12" x2="830" y2="274.12" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="238.31" x2="830" y2="238.31" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="202.5" x2="830" y2="202.5" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="166.69" x2="830" y2="166.69" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="130.88" x2="830" y2="130.88" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="95.08" x2="830" y2="95.08" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="59.27" x2="830" y2="59.27" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<line x1="70" y1="45" x2="70" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="190.96" y1="45" x2="190.96" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="311.92" y1="45" x2="311.92" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="432.87" y1="45" x2="432.87" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="553.83" y1="45" x2="553.83" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="674.79" y1="45" x2="674.79" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="795.75" y1="45" x2="795.75" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<path d="M70 202.5 L82.88 172.22 L95.76 143.31 L108.64 117.08 L121.53 94.71 L134.41 77.21 L147.29 65.37 L160.17 59.72 L173.05 60.53 L185.93 67.76 L198.81 81.08 L211.69 99.88 L224.58 123.32 L237.46 150.34 L250.34 179.72 L263.22 210.12 L276.1 240.18 L288.98 268.54 L301.86 293.92 L314.75 315.16 L327.63 331.31 L340.51 341.64 L353.39 345.68 L366.27 343.25 L379.15 334.46 L392.03 319.71 L404.92 299.66 L417.8 275.21 L430.68 247.49 L443.56 217.72 L456.44 187.28 L469.32 157.51 L482.2 129.79 L495.08 105.34 L507.97 85.29 L520.85 70.54 L533.73 61.75 L546.61 59.32 L559.49 63.36 L572.37 73.69 L585.25 89.84 L598.14 111.08 L611.02 136.46 L623.9 164.82 L636.78 194.88 L649.66 225.28 L662.54 254.66 L675.42 281.68 L688.31 305.12 L701.19 323.92 L714.07 337.24 L726.95 344.47 L739.83 345.28 L752.71 339.63 L765.59 327.79 L778.47 310.29 L791.36 287.92 L804.24 261.69 L817.12 232.78 L830 202.5" stroke="#4c72b0" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="70" cy="202.5" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="82.88" cy="172.22" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="95.76" cy="143.31" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="108.64" cy="117.08" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="121.53" cy="94.71" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="134.41" cy="77.21" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="147.29" cy="65.37" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="160.17" cy="59.72" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="173.05" cy="60.53" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="185.93" cy="67.76" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="198.81" cy="81.08" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="211.69" cy="99.88" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="224.58" cy="123.32" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="237.46" cy="150.34" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="250.34" cy="179.72" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="263.22" cy="210.12" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="276.1" cy="240.18" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="288.98" cy="268.54" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="301.86" cy="293.92" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="314.75" cy="315.16" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="327.63" cy="331.31" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="340.51" cy="341.64" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="353.39" cy="345.68" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="366.27" cy="343.25" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="379.15" cy="334.46" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="392.03" cy="319.71" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="404.92" cy="299.66" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="417.8" cy="275.21" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="430.68" cy="247.49" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="443.56" cy="217.72" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="456.44" cy="187.28" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="469.32" cy="157.51" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="482.2" cy="129.79" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="495.08" cy="105.34" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="507.97" cy="85.29" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="520.85" cy="70.54" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="533.73" cy="61.75" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="546.61" cy="59.32" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="559.49" cy="63.36" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="572.37" cy="73.69" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="585.25" cy="89.84" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="598.14" cy="111.08" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="611.02" cy="136.46" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="623.9" cy="164.82" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="636.78" cy="194.88" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="649.66" cy="225.28" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="662.54" cy="254.66" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="675.42" cy="281.68" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="688.31" cy="305.12" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="701.19" cy="323.92" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="714.07" cy="337.24" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="726.95" cy="344.47" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="739.83" cy="345.28" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="752.71" cy="339.63" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="765.59" cy="327.79" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="778.47" cy="310.29" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="791.36" cy="287.92" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="804.24" cy="261.69" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="817.12" cy="232.78" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+<circle cx="830" cy="202.5" r="5" stroke="#ffffff" stroke-width="1" fill="#4c72b0"/>
+</g>
+<line x1="70" y1="360" x2="830" y2="360" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="45" x2="70" y2="360" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="360" x2="70" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="70" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">0</text>
+<line x1="190.96" y1="360" x2="190.96" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="190.96" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">2</text>
+<line x1="311.92" y1="360" x2="311.92" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="311.92" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">4</text>
+<line x1="432.87" y1="360" x2="432.87" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="432.87" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">6</text>
+<line x1="553.83" y1="360" x2="553.83" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="553.83" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">8</text>
+<line x1="674.79" y1="360" x2="674.79" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="674.79" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">10</text>
+<line x1="795.75" y1="360" x2="795.75" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="795.75" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">12</text>
+<line x1="65" y1="345.73" x2="70" y2="345.73" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="345.73" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">-1.0</text>
+<line x1="65" y1="309.92" x2="70" y2="309.92" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="309.92" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">-0.8</text>
+<line x1="65" y1="274.12" x2="70" y2="274.12" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="274.12" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">-0.5</text>
+<line x1="65" y1="238.31" x2="70" y2="238.31" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="238.31" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">-0.2</text>
+<line x1="65" y1="202.5" x2="70" y2="202.5" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="202.5" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">0.0</text>
+<line x1="65" y1="166.69" x2="70" y2="166.69" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="166.69" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">0.2</text>
+<line x1="65" y1="130.88" x2="70" y2="130.88" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="130.88" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">0.5</text>
+<line x1="65" y1="95.08" x2="70" y2="95.08" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="95.08" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">0.8</text>
+<line x1="65" y1="59.27" x2="70" y2="59.27" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="59.27" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">1.0</text>
+<text x="450" y="390" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">x</text>
+<text x="22" y="202.5" transform="rotate(-90,22,202.5)" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#333333">y</text>
+<text x="450" y="30" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="auto" fill="#1a1a1a">Basic line chart</text>
+<rect x="730.4" y="55" width="89.6" height="42" rx="4" ry="4" stroke="#e5e5e5" stroke-width="0.8" fill="rgba(255,255,255,0.898)"/>
+<line x1="740.4" y1="76" x2="760.4" y2="76" stroke="#4c72b0" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<circle cx="750.4" cy="76" r="3" stroke="none" fill="#4c72b0"/>
+<text x="764.4" y="76" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">sin(x)</text>
+</svg>

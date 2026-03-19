@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420">
+<defs>
+<clipPath id="axes-clip-1"><rect x="70" y="45" width="760" height="315"/></clipPath>
+</defs>
+<rect x="0" y="0" width="860" height="420" stroke="none" fill="#ffffff"/>
+<rect x="70" y="45" width="760" height="315" stroke="none" fill="#f7f7f7"/>
+<g clip-path="url(#axes-clip-1)">
+<line x1="70" y1="313.85" x2="830" y2="313.85" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="256.15" x2="830" y2="256.15" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="198.46" x2="830" y2="198.46" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="140.77" x2="830" y2="140.77" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="83.08" x2="830" y2="83.08" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<line x1="99.23" y1="45" x2="99.23" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="245.38" y1="45" x2="245.38" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="391.54" y1="45" x2="391.54" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="537.69" y1="45" x2="537.69" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="683.85" y1="45" x2="683.85" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="830" y1="45" x2="830" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<circle cx="99.23" cy="106.15" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="128.46" cy="140.77" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="245.38" cy="175.38" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="186.92" cy="152.31" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="391.54" cy="221.54" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="70" cy="71.54" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="245.38" cy="186.92" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="128.46" cy="129.23" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="391.54" cy="233.08" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="186.92" cy="163.85" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="99.23" cy="94.62" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="245.38" cy="198.46" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="128.46" cy="117.69" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="391.54" cy="244.62" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="186.92" cy="140.77" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="70" cy="60" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="245.38" cy="186.92" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="128.46" cy="129.23" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="186.92" cy="152.31" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<circle cx="391.54" cy="256.15" r="6" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#4c72b0"/>
+<path d="M391.54 214.34 L397.54 221.54 L391.54 228.74 L385.54 221.54 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M683.85 283.57 L689.85 290.77 L683.85 297.97 L677.85 290.77 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M245.38 179.72 L251.38 186.92 L245.38 194.12 L239.38 186.92 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M537.69 248.95 L543.69 256.15 L537.69 263.35 L531.69 256.15 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M391.54 237.42 L397.54 244.62 L391.54 251.82 L385.54 244.62 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M830 329.72 L836 336.92 L830 344.12 L824 336.92 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M683.85 295.11 L689.85 302.31 L683.85 309.51 L677.85 302.31 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M391.54 225.88 L397.54 233.08 L391.54 240.28 L385.54 233.08 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M537.69 260.49 L543.69 267.69 L537.69 274.89 L531.69 267.69 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M245.38 191.26 L251.38 198.46 L245.38 205.66 L239.38 198.46 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M683.85 306.65 L689.85 313.85 L683.85 321.05 L677.85 313.85 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M830 341.26 L836 348.46 L830 355.66 L824 348.46 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M391.54 237.42 L397.54 244.62 L391.54 251.82 L385.54 244.62 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M537.69 272.03 L543.69 279.23 L537.69 286.43 L531.69 279.23 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M245.38 202.8 L251.38 210 L245.38 217.2 L239.38 210 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M683.85 318.18 L689.85 325.38 L683.85 332.58 L677.85 325.38 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M830 352.8 L836 360 L830 367.2 L824 360 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M391.54 248.95 L397.54 256.15 L391.54 263.35 L385.54 256.15 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M537.69 283.57 L543.69 290.77 L537.69 297.97 L531.69 290.77 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+<path d="M245.38 191.26 L251.38 198.46 L245.38 205.66 L239.38 198.46 Z" stroke="rgba(255,255,255,0.784)" stroke-width="1.2" fill="#dd8452"/>
+</g>
+<line x1="70" y1="360" x2="830" y2="360" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="45" x2="70" y2="360" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="99.23" y1="360" x2="99.23" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="99.23" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">1.5</text>
+<line x1="245.38" y1="360" x2="245.38" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="245.38" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">2.0</text>
+<line x1="391.54" y1="360" x2="391.54" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="391.54" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">2.5</text>
+<line x1="537.69" y1="360" x2="537.69" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="537.69" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">3.0</text>
+<line x1="683.85" y1="360" x2="683.85" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="683.85" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">3.5</text>
+<line x1="830" y1="360" x2="830" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="830" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">4.0</text>
+<line x1="65" y1="313.85" x2="70" y2="313.85" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="313.85" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">20</text>
+<line x1="65" y1="256.15" x2="70" y2="256.15" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="256.15" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">25</text>
+<line x1="65" y1="198.46" x2="70" y2="198.46" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="198.46" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">30</text>
+<line x1="65" y1="140.77" x2="70" y2="140.77" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="140.77" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">35</text>
+<line x1="65" y1="83.08" x2="70" y2="83.08" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="83.08" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">40</text>
+<text x="450" y="390" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Displacement (L)</text>
+<text x="22" y="202.5" transform="rotate(-90,22,202.5)" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#333333">Fuel economy (MPG)</text>
+<text x="450" y="30" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="auto" fill="#1a1a1a">Engine Displacement vs Fuel Economy</text>
+<rect x="730.4" y="55" width="89.6" height="64" rx="4" ry="4" stroke="#e5e5e5" stroke-width="0.8" fill="rgba(255,255,255,0.898)"/>
+<line x1="740.4" y1="76" x2="760.4" y2="76" stroke="#4c72b0" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<circle cx="750.4" cy="76" r="3" stroke="none" fill="#4c72b0"/>
+<text x="764.4" y="76" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">Sedans</text>
+<line x1="740.4" y1="98" x2="760.4" y2="98" stroke="#dd8452" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<circle cx="750.4" cy="98" r="3" stroke="none" fill="#dd8452"/>
+<text x="764.4" y="98" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">SUVs</text>
+</svg>

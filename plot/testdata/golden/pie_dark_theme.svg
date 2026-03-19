@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="500">
+<rect x="0" y="0" width="600" height="500" stroke="none" fill="#1a1b2e"/>
+<path d="M300 58 C389.2 58 468.3 115.5 495.9 200.3 C523.5 285.2 493.3 378.2 421.1 430.7 L360.5 347.3 C396.6 321.1 411.8 274.6 398.0 232.2 C384.2 189.7 344.6 161 300 161 Z" stroke="#ffffff" stroke-width="1.5" fill="#4c72b0"/>
+<path d="M421.1 430.7 C367.7 469.4 299.1 480.3 236.3 459.9 C173.6 439.5 124.5 390.4 104.1 327.7 L202.0 295.8 C212.2 327.2 236.8 351.8 268.2 362.0 C299.5 372.2 333.9 366.7 360.5 347.3 Z" stroke="#ffffff" stroke-width="1.5" fill="#dd8452"/>
+<path d="M104.1 327.7 C76.5 242.8 106.7 149.8 178.9 97.3 L239.5 180.7 C203.4 206.9 188.3 253.4 202.0 295.8 Z" stroke="#ffffff" stroke-width="1.5" fill="#55a868"/>
+<path d="M178.9 97.3 C214.1 71.8 256.5 58 300 58 L300 161 C278.3 161 257.1 167.9 239.5 180.7 Z" stroke="#ffffff" stroke-width="1.5" fill="#c44e52"/>
+<line x1="501.6" y1="198.5" x2="513.0" y2="194.8" stroke="#c8cae8" stroke-width="0.8" fill="none"/>
+<text x="517.0" y="194.8" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#c8cae8">A 40%</text>
+<line x1="234.5" y1="465.6" x2="230.8" y2="477.0" stroke="#c8cae8" stroke-width="0.8" fill="none"/>
+<text x="226.8" y="477.0" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#c8cae8">B 30%</text>
+<line x1="98.4" y1="198.5" x2="87.0" y2="194.8" stroke="#c8cae8" stroke-width="0.8" fill="none"/>
+<text x="83.0" y="194.8" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#c8cae8">C 20%</text>
+<line x1="234.5" y1="62.4" x2="230.8" y2="51.0" stroke="#c8cae8" stroke-width="0.8" fill="none"/>
+<text x="226.8" y="51.0" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#c8cae8">D 10%</text>
+<text x="300" y="14" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#e0e2ff">Dark Donut</text>
+</svg>

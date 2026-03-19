@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="500">
+<defs>
+<clipPath id="axes-clip-1"><rect x="70" y="45" width="500" height="395"/></clipPath>
+</defs>
+<rect x="0" y="0" width="600" height="500" stroke="none" fill="#ffffff"/>
+<rect x="70" y="45" width="500" height="395" stroke="none" fill="#f7f7f7"/>
+<g clip-path="url(#axes-clip-1)">
+<rect x="70" y="45" width="125" height="98.8" stroke="none" fill="#2166ac"/>
+<text x="132.5" y="94.4" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#f0f0f0">2.5</text>
+<rect x="195" y="45" width="125" height="98.8" stroke="none" fill="#6cacd0"/>
+<text x="257.5" y="94.4" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">1.2</text>
+<rect x="320" y="45" width="125" height="98.8" stroke="none" fill="#f3cbbb"/>
+<text x="382.5" y="94.4" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">-0.5</text>
+<rect x="445" y="45" width="125" height="98.8" stroke="none" fill="#d45749"/>
+<text x="507.5" y="94.4" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#f0f0f0">-1.8</text>
+<rect x="70" y="143.8" width="125" height="98.8" stroke="none" fill="#83b8d7"/>
+<text x="132.5" y="193.1" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">1</text>
+<rect x="195" y="143.8" width="125" height="98.8" stroke="none" fill="#d4e4ed"/>
+<text x="257.5" y="193.1" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">0.3</text>
+<rect x="320" y="143.8" width="125" height="98.8" stroke="none" fill="#f5dcd3"/>
+<text x="382.5" y="193.1" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">-0.3</text>
+<rect x="445" y="143.8" width="125" height="98.8" stroke="none" fill="#f09f7f"/>
+<text x="507.5" y="193.1" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">-1</text>
+<rect x="70" y="242.5" width="125" height="98.8" stroke="none" fill="#f1b197"/>
+<text x="132.5" y="291.9" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">-0.8</text>
+<rect x="195" y="242.5" width="125" height="98.8" stroke="none" fill="#f5e5df"/>
+<text x="257.5" y="291.9" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">-0.2</text>
+<rect x="320" y="242.5" width="125" height="98.8" stroke="none" fill="#c8deea"/>
+<text x="382.5" y="291.9" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">0.4</text>
+<rect x="445" y="242.5" width="125" height="98.8" stroke="none" fill="#589bc8"/>
+<text x="507.5" y="291.9" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#f0f0f0">1.5</text>
+<rect x="70" y="341.3" width="125" height="98.8" stroke="none" fill="#ca4541"/>
+<text x="132.5" y="390.6" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#f0f0f0">-2</text>
+<rect x="195" y="341.3" width="125" height="98.8" stroke="none" fill="#ef8e67"/>
+<text x="257.5" y="390.6" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">-1.2</text>
+<rect x="320" y="341.3" width="125" height="98.8" stroke="none" fill="#9ac5dd"/>
+<text x="382.5" y="390.6" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#1e1e1e">0.8</text>
+<rect x="445" y="341.3" width="125" height="98.8" stroke="none" fill="#3176b4"/>
+<text x="507.5" y="390.6" font-size="27.7" font-family="system-ui, sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#f0f0f0">2.2</text>
+</g>
+<line x1="70" y1="440" x2="570" y2="440" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="45" x2="70" y2="440" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="132.5" y1="440" x2="132.5" y2="445" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="132.5" y="448" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Mon</text>
+<line x1="257.5" y1="440" x2="257.5" y2="445" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="257.5" y="448" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Tue</text>
+<line x1="382.5" y1="440" x2="382.5" y2="445" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="382.5" y="448" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Wed</text>
+<line x1="507.5" y1="440" x2="507.5" y2="445" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="507.5" y="448" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Thu</text>
+<line x1="65" y1="94.4" x2="70" y2="94.4" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="94.4" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">W1</text>
+<line x1="65" y1="193.1" x2="70" y2="193.1" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="193.1" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">W2</text>
+<line x1="65" y1="291.9" x2="70" y2="291.9" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="291.9" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">W3</text>
+<line x1="65" y1="390.6" x2="70" y2="390.6" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="390.6" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">W4</text>
+<text x="320" y="30" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="auto" fill="#1a1a1a">Diverging Heatmap</text>
+</svg>

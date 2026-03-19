@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420">
+<rect x="0" y="0" width="700" height="420" stroke="none" fill="#ffffff"/>
+<path d="M350 58 C412.42 58 469.57 93.02 497.91 148.64 C526.25 204.26 520.99 271.07 484.3 321.57 L423.86 277.66 C444.04 249.89 446.94 213.14 431.35 182.55 C415.76 151.96 384.33 132.7 350 132.7 Z" stroke="#ffffff" stroke-width="1.5" fill="#4c72b0"/>
+<path d="M484.3 321.57 C455.22 361.6 409.8 386.57 360.42 389.67 C311.05 392.78 262.86 373.7 228.99 337.63 L283.45 286.5 C302.07 306.33 328.58 316.83 355.73 315.12 C382.89 313.41 407.87 299.68 423.86 277.66 Z" stroke="#ffffff" stroke-width="1.5" fill="#dd8452"/>
+<path d="M228.99 337.63 C184.97 290.76 171.99 222.68 195.66 162.89 L265.11 190.39 C252.09 223.27 259.23 260.72 283.45 286.5 Z" stroke="#ffffff" stroke-width="1.5" fill="#55a868"/>
+<path d="M195.66 162.89 C211.2 123.63 241.12 91.78 279.32 73.8 L311.13 141.39 C290.11 151.28 273.66 168.8 265.11 190.39 Z" stroke="#ffffff" stroke-width="1.5" fill="#c44e52"/>
+<path d="M279.32 73.8 C301.43 63.39 325.56 58 350 58 L350 132.7 C336.56 132.7 323.29 135.67 311.13 141.39 Z" stroke="#ffffff" stroke-width="1.5" fill="#8172b3"/>
+<line x1="503.25" y1="145.91" x2="513.95" y2="140.47" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="517.95" y="140.47" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">Direct 35%</text>
+<line x1="360.8" y1="395.66" x2="361.55" y2="407.64" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="365.55" y="407.64" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">Organic Search 28%</text>
+<line x1="181.05" y1="256.23" x2="169.26" y2="258.48" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="165.26" y="258.48" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Referral 18%</text>
+<line x1="224.62" y1="106.26" x2="215.87" y2="98.04" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="211.87" y="98.04" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Social 12%</text>
+<line x1="312.48" y1="56.14" x2="309.86" y2="44.43" stroke="#333333" stroke-width="0.8" fill="none"/>
+<text x="305.86" y="44.43" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">Email 7%</text>
+<text x="350" y="14" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">Traffic Sources (Donut)</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420">
+<defs>
+<clipPath id="axes-clip-1"><rect x="70" y="45" width="760" height="315"/></clipPath>
+</defs>
+<rect x="0" y="0" width="860" height="420" stroke="none" fill="#ffffff"/>
+<rect x="70" y="45" width="760" height="315" stroke="none" fill="#f7f7f7"/>
+<g clip-path="url(#axes-clip-1)">
+<line x1="70" y1="360" x2="830" y2="360" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="324.29" x2="830" y2="324.29" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="288.57" x2="830" y2="288.57" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="252.86" x2="830" y2="252.86" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="217.14" x2="830" y2="217.14" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="181.43" x2="830" y2="181.43" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="145.71" x2="830" y2="145.71" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="110" x2="830" y2="110" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="74.29" x2="830" y2="74.29" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<rect x="77.12" y="188.57" width="80.75" height="171.43" rx="4" ry="4" stroke="none" fill="#4c72b0"/>
+<rect x="267.12" y="152.86" width="80.75" height="207.14" rx="4" ry="4" stroke="none" fill="#4c72b0"/>
+<rect x="457.12" y="128.57" width="80.75" height="231.43" rx="4" ry="4" stroke="none" fill="#4c72b0"/>
+<rect x="647.12" y="90" width="80.75" height="270" rx="4" ry="4" stroke="none" fill="#4c72b0"/>
+<rect x="172.12" y="167.14" width="80.75" height="192.86" rx="4" ry="4" stroke="none" fill="#dd8452"/>
+<rect x="362.12" y="134.29" width="80.75" height="225.71" rx="4" ry="4" stroke="none" fill="#dd8452"/>
+<rect x="552.12" y="111.43" width="80.75" height="248.57" rx="4" ry="4" stroke="none" fill="#dd8452"/>
+<rect x="742.12" y="60" width="80.75" height="300" rx="4" ry="4" stroke="none" fill="#dd8452"/>
+</g>
+<line x1="70" y1="360" x2="830" y2="360" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="45" x2="70" y2="360" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="165" y1="360" x2="165" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="165" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Q1</text>
+<line x1="355" y1="360" x2="355" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="355" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Q2</text>
+<line x1="545" y1="360" x2="545" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="545" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Q3</text>
+<line x1="735" y1="360" x2="735" y2="365" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="735" y="368" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">Q4</text>
+<line x1="65" y1="360" x2="70" y2="360" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="360" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">0</text>
+<line x1="65" y1="324.29" x2="70" y2="324.29" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="324.29" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">25</text>
+<line x1="65" y1="288.57" x2="70" y2="288.57" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="288.57" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">50</text>
+<line x1="65" y1="252.86" x2="70" y2="252.86" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="252.86" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">75</text>
+<line x1="65" y1="217.14" x2="70" y2="217.14" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="217.14" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">100</text>
+<line x1="65" y1="181.43" x2="70" y2="181.43" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="181.43" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">125</text>
+<line x1="65" y1="145.71" x2="70" y2="145.71" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="145.71" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">150</text>
+<line x1="65" y1="110" x2="70" y2="110" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="110" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">175</text>
+<line x1="65" y1="74.29" x2="70" y2="74.29" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="74.29" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">200</text>
+<text x="22" y="202.5" transform="rotate(-90,22,202.5)" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#333333">Revenue ($k)</text>
+<text x="450" y="30" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="auto" fill="#1a1a1a">Grouped Bar — Revenue by Quarter</text>
+<rect x="743.6" y="55" width="76.4" height="64" rx="4" ry="4" stroke="#e5e5e5" stroke-width="0.8" fill="rgba(255,255,255,0.898)"/>
+<rect x="753.6" y="71" width="20" height="10" rx="2" ry="2" stroke="none" fill="#4c72b0"/>
+<text x="777.6" y="76" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">2023</text>
+<rect x="753.6" y="93" width="20" height="10" rx="2" ry="2" stroke="none" fill="#dd8452"/>
+<text x="777.6" y="98" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="start" dominant-baseline="middle" fill="#333333">2024</text>
+</svg>

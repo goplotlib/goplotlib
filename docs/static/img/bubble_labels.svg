@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="480">
+<defs>
+<clipPath id="axes-clip-1"><rect x="70" y="45" width="760" height="375"/></clipPath>
+</defs>
+<rect x="0" y="0" width="860" height="480" stroke="none" fill="#ffffff"/>
+<rect x="70" y="45" width="760" height="375" stroke="none" fill="#f7f7f7"/>
+<g clip-path="url(#axes-clip-1)">
+<line x1="70" y1="384.29" x2="830" y2="384.29" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="339.64" x2="830" y2="339.64" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="295" x2="830" y2="295" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="250.36" x2="830" y2="250.36" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="205.71" x2="830" y2="205.71" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="161.07" x2="830" y2="161.07" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="116.43" x2="830" y2="116.43" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="70" y1="71.79" x2="830" y2="71.79" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<line x1="126.72" y1="45" x2="126.72" y2="420" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="240.15" y1="45" x2="240.15" y2="420" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="353.58" y1="45" x2="353.58" y2="420" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="467.01" y1="45" x2="467.01" y2="420" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="580.45" y1="45" x2="580.45" y2="420" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="693.88" y1="45" x2="693.88" y2="420" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+<line x1="807.31" y1="45" x2="807.31" y2="420" stroke="#e5e5e5" stroke-width="0.8" fill="none"/>
+</g>
+<g clip-path="url(#axes-clip-1)">
+<circle cx="149.4" cy="330.71" r="50" stroke="rgba(255,255,255,0.706)" stroke-width="1" fill="#4c72b0" fill-opacity="0.65"/>
+<circle cx="750.6" cy="134.29" r="17.72" stroke="rgba(255,255,255,0.706)" stroke-width="1" fill="#4c72b0" fill-opacity="0.65"/>
+<circle cx="104.03" cy="420" r="14.25" stroke="rgba(255,255,255,0.706)" stroke-width="1" fill="#4c72b0" fill-opacity="0.65"/>
+<circle cx="410.3" cy="205.71" r="14.09" stroke="rgba(255,255,255,0.706)" stroke-width="1" fill="#4c72b0" fill-opacity="0.65"/>
+<circle cx="217.46" cy="259.29" r="12.13" stroke="rgba(255,255,255,0.706)" stroke-width="1" fill="#4c72b0" fill-opacity="0.65"/>
+<circle cx="557.76" cy="62.86" r="11.53" stroke="rgba(255,255,255,0.706)" stroke-width="1" fill="#4c72b0" fill-opacity="0.65"/>
+<circle cx="70" cy="402.14" r="11.38" stroke="rgba(255,255,255,0.706)" stroke-width="1" fill="#4c72b0" fill-opacity="0.65"/>
+<circle cx="489.7" cy="98.57" r="10.26" stroke="rgba(255,255,255,0.706)" stroke-width="1" fill="#4c72b0" fill-opacity="0.65"/>
+<circle cx="444.33" cy="170" r="9.78" stroke="rgba(255,255,255,0.706)" stroke-width="1" fill="#4c72b0" fill-opacity="0.65"/>
+<circle cx="603.13" cy="98.57" r="8.91" stroke="rgba(255,255,255,0.706)" stroke-width="1" fill="#4c72b0" fill-opacity="0.65"/>
+<circle cx="637.16" cy="80.71" r="8.51" stroke="rgba(255,255,255,0.706)" stroke-width="1" fill="#4c72b0" fill-opacity="0.65"/>
+<circle cx="830" cy="80.71" r="8" stroke="rgba(255,255,255,0.706)" stroke-width="1" fill="#4c72b0" fill-opacity="0.65"/>
+</g>
+<text x="750.6" y="134.29" font-size="11" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="rgba(30,30,30,0.863)">USA</text>
+<text x="557.76" y="62.86" font-size="11" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="rgba(30,30,30,0.863)">Japan</text>
+<text x="489.7" y="98.57" font-size="11" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="rgba(30,30,30,0.863)">Germany</text>
+<text x="149.4" y="330.71" font-size="11" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="rgba(30,30,30,0.863)">China</text>
+<text x="104.03" y="420" font-size="11" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="rgba(30,30,30,0.863)">Brazil</text>
+<text x="217.46" y="259.29" font-size="11" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="rgba(30,30,30,0.863)">Russia</text>
+<text x="410.3" y="205.71" font-size="11" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="rgba(30,30,30,0.863)">Mexico</text>
+<text x="70" y="402.14" font-size="11" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="rgba(30,30,30,0.863)">Ethiopia</text>
+<line x1="70" y1="420" x2="830" y2="420" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="70" y1="45" x2="70" y2="420" stroke="#888888" stroke-width="1.2" fill="none"/>
+<line x1="126.72" y1="420" x2="126.72" y2="425" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="126.72" y="428" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">10</text>
+<line x1="240.15" y1="420" x2="240.15" y2="425" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="240.15" y="428" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">20</text>
+<line x1="353.58" y1="420" x2="353.58" y2="425" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="353.58" y="428" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">30</text>
+<line x1="467.01" y1="420" x2="467.01" y2="425" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="467.01" y="428" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">40</text>
+<line x1="580.45" y1="420" x2="580.45" y2="425" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="580.45" y="428" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">50</text>
+<line x1="693.88" y1="420" x2="693.88" y2="425" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="693.88" y="428" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">60</text>
+<line x1="807.31" y1="420" x2="807.31" y2="425" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="807.31" y="428" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">70</text>
+<line x1="65" y1="384.29" x2="70" y2="384.29" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="384.29" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">65</text>
+<line x1="65" y1="339.64" x2="70" y2="339.64" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="339.64" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">68</text>
+<line x1="65" y1="295" x2="70" y2="295" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="295" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">70</text>
+<line x1="65" y1="250.36" x2="70" y2="250.36" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="250.36" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">72</text>
+<line x1="65" y1="205.71" x2="70" y2="205.71" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="205.71" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">75</text>
+<line x1="65" y1="161.07" x2="70" y2="161.07" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="161.07" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">78</text>
+<line x1="65" y1="116.43" x2="70" y2="116.43" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="116.43" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">80</text>
+<line x1="65" y1="71.79" x2="70" y2="71.79" stroke="#888888" stroke-width="1" fill="none"/>
+<text x="62" y="71.79" font-size="11" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="end" dominant-baseline="middle" fill="#333333">82</text>
+<text x="450" y="450" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="hanging" fill="#333333">GDP per Capita ($k)</text>
+<text x="22" y="232.5" transform="rotate(-90,22,232.5)" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle" dominant-baseline="middle" fill="#333333">Life Expectancy (years)</text>
+<text x="450" y="30" font-size="16" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="auto" fill="#1a1a1a">GDP per Capita vs Life Expectancy vs Population</text>
+</svg>
